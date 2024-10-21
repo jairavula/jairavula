@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jairavula
+<h1 align="center">Hi 👋, I'm Jai Ravula</h1>
 - 📜 I'm majoring in Electrical Computer Engineering  at Virginia Tech- Go Hokies!
 - 👀 I’m interested in full-stack software engineering, cloud infrastucture and computing, AI/ML model training, and utilizing open-source models in software solutions. 
 - 🌱 I’m currently learning vanilla neural network implementation
